@@ -1,0 +1,10 @@
+*
+!.gitignore
+!BIT3208_Project/
+!BIT3208_Project/**
+
+BIT3208_Project/**/__pycache__/
+BIT3208_Project/Week4/php-server.log
+BIT3208_Project/Week4/php-server-error.log
+BIT3208_Project/Week5/.env
+BIT3208_Project/Week5/data/
