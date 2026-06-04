@@ -36,9 +36,4 @@ Evidence to capture:
 - screenshot of SQL import or query execution
 - screenshot of GitHub commit history
 
-## GitHub Notes
 
-- keep each week in its own folder
-- commit work incrementally
-- include SQL exports and screenshots
-- use the repository history as proof of continuous development
