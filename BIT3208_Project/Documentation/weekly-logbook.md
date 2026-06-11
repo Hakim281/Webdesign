@@ -16,7 +16,6 @@ Evidence to capture:
 
 - screenshots of login, registration, and validation
 - screenshot of database tables in phpMyAdmin
-- screenshot of successful viewing request submission
 - screenshot of GitHub commit history
 
 ## Week 5
@@ -25,7 +24,6 @@ Completed work:
 
 - prepared MySQL database scripts
 - confirmed table creation files
-- confirmed CRUD routes in `api.php`
 - confirmed dynamic frontend integration
 - prepared `Week5db.sql` for versioned database backup
 
@@ -33,7 +31,7 @@ Evidence to capture:
 
 - screenshots of create, read, update, and delete operations
 - screenshot of database table records
-- screenshot of SQL import or query execution
-- screenshot of GitHub commit history
+
+
 
 
