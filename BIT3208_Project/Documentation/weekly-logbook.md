@@ -25,7 +25,7 @@ Completed work:
 - prepared MySQL database scripts
 - confirmed table creation files
 - confirmed dynamic frontend integration
-- prepared `Week5db.sql` for versioned database backup
+
 
 Evidence to capture:
 
